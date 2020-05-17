@@ -19,7 +19,6 @@ public class Main {
 
     private static String getFilename(String[] args) {
         if (args.length < 1) {
-            //return "/Users/dmitry/projects/contacts.db"; //null;
             return null;
         }
 
